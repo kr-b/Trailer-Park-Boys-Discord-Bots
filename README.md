@@ -12,6 +12,6 @@ $ ./run_all.sh
 ```
 
 ## Screenshots
-
-![Example of an interaction](https://github.com/kr-b/Trailer-Park-Boys-Discord-Bots/blob/master/screenshots/response.PNG)
 ![Example of bot setup](https://github.com/kr-b/Trailer-Park-Boys-Discord-Bots/blob/master/screenshots/roles.PNG)
+![Example of an interaction](https://github.com/kr-b/Trailer-Park-Boys-Discord-Bots/blob/master/screenshots/response.PNG)
+
